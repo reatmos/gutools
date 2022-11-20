@@ -18,4 +18,6 @@ Golang Update Tools Scripts for Linux 64bit
 
 I tested on Andronix(arm64) - Ubuntu and Google Cloud Platform(x86_64) - Debian.
 
-Note : https://twitter.com/Pa1ath/status/1591969022266208256?s=20&t=dWDPfx_KKqzFm-rESMfThw
+Note
+- https://github.com/moovweb/gvm
+- https://twitter.com/Pa1ath/status/1591969022266208256?s=20&t=dWDPfx_KKqzFm-rESMfThw
